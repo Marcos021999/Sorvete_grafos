@@ -1,0 +1,9 @@
+frutas_cristalizadas -> nata
+tutti_frutti -> passas_ao_rum
+tutti_frutti -> abóbora
+passas_ao_rum -> abóbora
+abóbora -> menta
+tamarindo -> sonho_de_valsa
+flocos -> tutti_frutti
+flocos -> tamarindo
+flocos -> sonho_de_valsa
